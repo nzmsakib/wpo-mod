@@ -1,0 +1,412 @@
+[2023-10-30 15:31:07] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:31:07] true
+[2023-10-30 15:31:14] wpo_mod_preload_cache() called
+[2023-10-30 15:32:44] wpo_mod_preload_get_site_urls() called
+[2023-10-30 15:32:44] wpo_mod_preload_get_site_urls() is_preload_cache_clicked is true. URL: http://127.0.0.1:8001/index.php/sample-page/ Total urls: 1
+[2023-10-30 15:32:44] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:32:44] true
+[2023-10-30 15:32:45] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:32:45] true
+[2023-10-30 15:32:45] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:32:45] true
+[2023-10-30 15:32:46] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:32:46] true
+[2023-10-30 15:32:46] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:32:46] true
+[2023-10-30 15:36:44] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:36:44] true
+[2023-10-30 15:37:10] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:37:10] true
+[2023-10-30 15:37:15] wpo_mod_preload_cache() called
+[2023-10-30 15:38:45] wpo_mod_preload_get_site_urls() called
+[2023-10-30 15:38:45] wpo_mod_preload_get_site_urls() is_preload_cache_clicked is true. URL: http://127.0.0.1:8001/index.php/sample-page/ Total urls: 1
+[2023-10-30 15:38:45] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:38:45] true
+[2023-10-30 15:38:46] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:38:46] true
+[2023-10-30 15:38:46] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:38:46] true
+[2023-10-30 15:38:47] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:38:47] true
+[2023-10-30 15:38:47] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:38:47] true
+[2023-10-30 15:38:47] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:38:47] true
+[2023-10-30 15:38:48] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:38:48] true
+[2023-10-30 15:38:48] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:38:48] true
+[2023-10-30 15:38:49] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:38:49] true
+[2023-10-30 15:38:49] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:38:49] true
+[2023-10-30 15:38:49] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:38:49] true
+[2023-10-30 15:38:50] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:38:50] true
+[2023-10-30 15:38:50] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:38:50] true
+[2023-10-30 15:38:51] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:38:51] true
+[2023-10-30 15:38:51] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:38:51] true
+[2023-10-30 15:38:51] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:38:51] true
+[2023-10-30 15:38:52] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:38:52] true
+[2023-10-30 15:38:52] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:38:52] true
+[2023-10-30 15:38:53] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:38:53] true
+[2023-10-30 15:38:53] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:38:53] true
+[2023-10-30 15:38:53] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:38:53] true
+[2023-10-30 15:38:54] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:38:54] true
+[2023-10-30 15:38:54] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:38:54] true
+[2023-10-30 15:38:55] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:38:55] true
+[2023-10-30 15:38:55] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:38:55] true
+[2023-10-30 15:38:55] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:38:55] true
+[2023-10-30 15:38:56] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:38:56] true
+[2023-10-30 15:38:56] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:38:56] true
+[2023-10-30 15:38:57] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:38:57] true
+[2023-10-30 15:38:57] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:38:57] true
+[2023-10-30 15:38:57] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:38:57] true
+[2023-10-30 15:38:58] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:38:58] true
+[2023-10-30 15:38:58] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:38:58] true
+[2023-10-30 15:38:59] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:38:59] true
+[2023-10-30 15:38:59] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:38:59] true
+[2023-10-30 15:38:59] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:38:59] true
+[2023-10-30 15:39:00] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:39:00] true
+[2023-10-30 15:39:00] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:39:00] true
+[2023-10-30 15:39:01] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:39:01] true
+[2023-10-30 15:39:01] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:39:01] true
+[2023-10-30 15:39:01] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:39:01] true
+[2023-10-30 15:39:02] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:39:02] true
+[2023-10-30 15:39:02] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:39:02] true
+[2023-10-30 15:39:03] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:39:03] true
+[2023-10-30 15:39:03] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:39:03] true
+[2023-10-30 15:39:03] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:39:03] true
+[2023-10-30 15:39:04] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:39:04] true
+[2023-10-30 15:39:04] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:39:04] true
+[2023-10-30 15:39:05] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:39:05] true
+[2023-10-30 15:39:05] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:39:05] true
+[2023-10-30 15:39:05] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:39:05] true
+[2023-10-30 15:39:06] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:39:06] true
+[2023-10-30 15:39:06] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:39:06] true
+[2023-10-30 15:39:07] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:39:07] true
+[2023-10-30 15:39:07] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:39:07] true
+[2023-10-30 15:39:07] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:39:07] true
+[2023-10-30 15:39:08] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:39:08] true
+[2023-10-30 15:39:08] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:39:08] true
+[2023-10-30 15:39:08] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:39:08] true
+[2023-10-30 15:39:09] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:39:09] true
+[2023-10-30 15:39:09] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:39:09] true
+[2023-10-30 15:39:10] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:39:10] true
+[2023-10-30 15:39:10] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:39:10] true
+[2023-10-30 15:39:10] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:39:10] true
+[2023-10-30 15:39:11] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:39:11] true
+[2023-10-30 15:39:11] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:39:11] true
+[2023-10-30 15:39:12] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:39:12] true
+[2023-10-30 15:39:12] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:39:12] true
+[2023-10-30 15:39:12] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:39:12] true
+[2023-10-30 15:39:13] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:39:13] true
+[2023-10-30 15:39:13] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:39:13] true
+[2023-10-30 15:39:14] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:39:14] true
+[2023-10-30 15:39:14] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:39:14] true
+[2023-10-30 15:39:14] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:39:14] true
+[2023-10-30 15:39:15] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:39:15] true
+[2023-10-30 15:39:15] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:39:15] true
+[2023-10-30 15:39:16] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:39:16] true
+[2023-10-30 15:39:16] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:39:16] true
+[2023-10-30 15:39:16] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:39:16] true
+[2023-10-30 15:39:17] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:39:17] true
+[2023-10-30 15:39:17] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:39:17] true
+[2023-10-30 15:39:18] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:39:18] true
+[2023-10-30 15:39:18] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:39:18] true
+[2023-10-30 15:39:18] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:39:18] true
+[2023-10-30 15:39:19] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:39:19] true
+[2023-10-30 15:39:19] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:39:19] true
+[2023-10-30 15:39:20] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:39:20] true
+[2023-10-30 15:39:20] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:39:20] true
+[2023-10-30 15:39:20] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:39:20] true
+[2023-10-30 15:39:21] Message: Last preload finished at 3:25 pm, October 30, 2023
+[2023-10-30 15:39:21] true
+[2023-10-30 15:48:03] wpo_mod_preload_cache() called
+[2023-10-30 15:49:33] wpo_mod_preload_get_site_urls() called
+[2023-10-30 15:49:33] wpo_mod_preload_get_site_urls() is_preload_cache_clicked is true. URL: http://127.0.0.1:8001/index.php/sample-page/ Total urls: 1
+[2023-10-30 15:49:34] wpo_mod_cancel_preload_cache() called
+[2023-10-30 15:56:51] wpo_mod_preload_cache() called
+[2023-10-30 15:58:21] wpo_mod_preload_get_site_urls() called
+[2023-10-30 15:58:21] wpo_mod_preload_get_site_urls() is_preload_cache_clicked is true. URL: http://127.0.0.1:8001/index.php/sample-page/ Total urls: 1
+[2023-10-30 16:29:19] wpo_mod_preload_cache() called
+[2023-10-30 16:30:49] wpo_mod_preload_get_site_urls() called
+[2023-10-30 16:30:49] wpo_mod_preload_get_site_urls() is_preload_cache_clicked is true. URL: http://127.0.0.1:8001/index.php/2022/03/30/hello-world/ Total urls: 1
+[2023-10-30 16:34:08] true
+[2023-10-30 16:34:12] wpo_mod_preload_cache() called
+[2023-10-30 16:35:42] wpo_mod_preload_get_site_urls() called
+[2023-10-30 16:35:42] wpo_mod_preload_get_site_urls() is_preload_cache_clicked is true. URL: http://127.0.0.1:8001/index.php/sample-page/ Total urls: 1
+[2023-10-30 16:35:43] true
+[2023-10-30 16:35:43] true
+[2023-10-30 16:35:44] true
+[2023-10-30 16:35:44] true
+[2023-10-30 16:35:45] true
+[2023-10-30 16:35:45] true
+[2023-10-30 16:35:46] true
+[2023-10-30 16:35:46] true
+[2023-10-30 16:35:46] true
+[2023-10-30 16:35:47] true
+[2023-10-30 16:35:47] true
+[2023-10-30 16:35:48] true
+[2023-10-30 16:35:48] true
+[2023-10-30 16:35:48] true
+[2023-10-30 16:35:49] true
+[2023-10-30 16:35:49] true
+[2023-10-30 16:35:50] true
+[2023-10-30 16:35:50] true
+[2023-10-30 16:35:51] true
+[2023-10-30 16:35:51] true
+[2023-10-30 16:35:51] true
+[2023-10-30 16:35:52] true
+[2023-10-30 16:35:52] true
+[2023-10-30 16:35:53] true
+[2023-10-30 16:35:53] true
+[2023-10-30 16:35:53] true
+[2023-10-30 16:35:54] true
+[2023-10-30 16:35:54] true
+[2023-10-30 16:35:55] true
+[2023-10-30 16:35:55] true
+[2023-10-30 16:35:55] true
+[2023-10-30 16:35:56] true
+[2023-10-30 16:35:56] true
+[2023-10-30 16:35:57] true
+[2023-10-30 16:35:57] true
+[2023-10-30 16:35:58] true
+[2023-10-30 16:35:58] true
+[2023-10-30 16:35:59] true
+[2023-10-30 16:35:59] true
+[2023-10-30 16:36:00] true
+[2023-10-30 16:36:00] true
+[2023-10-30 16:36:01] true
+[2023-10-30 16:36:01] true
+[2023-10-30 16:36:01] true
+[2023-10-30 16:36:02] true
+[2023-10-30 16:36:02] true
+[2023-10-30 16:36:02] true
+[2023-10-30 16:36:03] true
+[2023-10-30 16:36:03] true
+[2023-10-30 16:36:04] true
+[2023-10-30 16:36:04] true
+[2023-10-30 16:36:04] true
+[2023-10-30 16:36:05] true
+[2023-10-30 16:36:05] true
+[2023-10-30 16:36:06] true
+[2023-10-30 16:36:06] true
+[2023-10-30 16:36:06] true
+[2023-10-30 16:36:07] true
+[2023-10-30 16:36:07] true
+[2023-10-30 16:36:08] true
+[2023-10-30 16:36:08] true
+[2023-10-30 16:36:08] true
+[2023-10-30 16:36:09] true
+[2023-10-30 16:36:09] true
+[2023-10-30 16:36:10] true
+[2023-10-30 16:36:10] true
+[2023-10-30 16:36:10] true
+[2023-10-30 16:36:11] true
+[2023-10-30 16:36:11] true
+[2023-10-30 16:36:11] true
+[2023-10-30 16:36:12] true
+[2023-10-30 16:36:12] true
+[2023-10-30 16:36:13] true
+[2023-10-30 16:36:13] true
+[2023-10-30 16:36:14] true
+[2023-10-30 16:36:14] true
+[2023-10-30 16:36:14] true
+[2023-10-30 16:36:15] true
+[2023-10-30 16:36:15] true
+[2023-10-30 16:36:16] true
+[2023-10-30 16:36:16] true
+[2023-10-30 16:36:16] true
+[2023-10-30 16:36:17] true
+[2023-10-30 16:36:17] true
+[2023-10-30 16:36:18] true
+[2023-10-30 16:36:18] true
+[2023-10-30 16:36:18] true
+[2023-10-30 16:36:19] true
+[2023-10-30 16:36:19] true
+[2023-10-30 16:36:20] true
+[2023-10-30 16:39:39] true
+[2023-10-30 16:39:46] wpo_mod_preload_cache() called
+[2023-10-30 16:41:16] wpo_mod_preload_get_site_urls() called
+[2023-10-30 16:41:16] wpo_mod_preload_get_site_urls() is_preload_cache_clicked is true. URL: http://127.0.0.1:8001/index.php/sample-page/ Total urls: 1
+[2023-10-30 16:41:16] true
+[2023-10-30 16:41:17] true
+[2023-10-30 16:41:18] true
+[2023-10-30 16:41:18] true
+[2023-10-30 16:41:19] true
+[2023-10-30 16:41:19] true
+[2023-10-30 16:41:20] true
+[2023-10-30 16:41:20] true
+[2023-10-30 16:41:21] true
+[2023-10-30 16:41:21] true
+[2023-10-30 16:41:22] true
+[2023-10-30 16:41:22] true
+[2023-10-30 16:41:22] true
+[2023-10-30 16:41:23] true
+[2023-10-30 16:41:23] true
+[2023-10-30 16:41:24] true
+[2023-10-30 16:41:24] true
+[2023-10-30 16:41:24] true
+[2023-10-30 16:53:26] Clicked: false
+[2023-10-30 16:53:35] wpo_mod_preload_cache() called
+[2023-10-30 16:55:05] wpo_mod_preload_get_site_urls() called
+[2023-10-30 16:55:05] wpo_mod_preload_get_site_urls() is_preload_cache_clicked is true. URL: http://127.0.0.1:8001/index.php/2022/03/30/hello-world/ Total urls: 1
+[2023-10-30 16:55:06] Clicked: false
+[2023-10-30 16:55:06] Clicked: false
+[2023-10-30 16:55:06] Clicked: false
+[2023-10-30 16:55:07] Clicked: false
+[2023-10-30 16:55:07] Clicked: false
+[2023-10-30 16:55:08] Clicked: false
+[2023-10-30 16:55:08] Clicked: false
+[2023-10-30 16:55:09] Clicked: false
+[2023-10-30 16:55:09] Clicked: false
+[2023-10-30 16:55:09] Clicked: false
+[2023-10-30 16:55:10] Clicked: false
+[2023-10-30 16:55:10] Clicked: false
+[2023-10-30 16:55:11] Clicked: false
+[2023-10-30 16:55:11] Clicked: false
+[2023-10-30 16:55:12] Clicked: false
+[2023-10-30 16:55:13] Clicked: false
+[2023-10-30 16:55:13] Clicked: false
+[2023-10-30 16:55:13] Clicked: false
+[2023-10-30 17:02:28] Clicked: false
+[2023-10-30 17:02:34] wpo_mod_preload_cache() called
+[2023-10-30 17:04:04] wpo_mod_preload_get_site_urls() called
+[2023-10-30 17:04:04] wpo_mod_preload_get_site_urls() is_preload_cache_clicked is true. URL: http://127.0.0.1:8001/index.php/2022/03/30/hello-world/ Total urls: 1
+[2023-10-30 17:04:05] Clicked: false
+[2023-10-30 17:04:05] Clicked: false
+[2023-10-30 17:04:06] Clicked: false
+[2023-10-30 17:04:06] Clicked: false
+[2023-10-30 17:04:07] Clicked: false
+[2023-10-30 17:04:07] Clicked: false
+[2023-10-30 17:04:07] Clicked: false
+[2023-10-30 17:04:08] Clicked: false
+[2023-10-30 17:04:08] Clicked: false
+[2023-10-30 17:04:09] Clicked: false
+[2023-10-30 17:04:09] Clicked: false
+[2023-10-30 17:04:10] Clicked: false
+[2023-10-30 17:04:10] Clicked: false
+[2023-10-30 17:04:10] Clicked: false
+[2023-10-30 17:04:11] Clicked: false
+[2023-10-30 17:04:11] Clicked: false
+[2023-10-30 17:04:12] Clicked: false
+[2023-10-30 17:04:12] Clicked: false
+[2023-10-30 17:09:29] Clicked: false
+[2023-10-30 17:09:40] wpo_mod_preload_cache() called
+[2023-10-30 17:11:10] wpo_mod_preload_get_site_urls() called
+[2023-10-30 17:11:10] wpo_mod_preload_get_site_urls() is_preload_cache_clicked is true. URL: http://127.0.0.1:8001/index.php/2022/03/30/hello-world/ Total urls: 1
+[2023-10-30 17:11:11] Clicked: false
+[2023-10-30 17:11:11] Clicked: false
+[2023-10-30 17:11:12] Clicked: false
+[2023-10-30 17:11:12] Clicked: false
+[2023-10-30 17:11:13] Clicked: false
+[2023-10-30 17:11:13] Clicked: false
+[2023-10-30 17:11:14] Clicked: false
+[2023-10-30 17:11:14] Clicked: false
+[2023-10-30 17:11:15] Clicked: false
+[2023-10-30 17:11:15] Clicked: false
+[2023-10-30 17:11:16] Clicked: false
+[2023-10-30 17:11:16] Clicked: false
+[2023-10-30 17:11:16] Clicked: false
+[2023-10-30 17:13:03] Clicked: false
+[2023-10-30 17:14:04] wpo_mod_run_preload_cache() called: true
+[2023-10-30 17:15:34] wpo_mod_preload_get_site_urls() called
+[2023-10-30 17:15:34] wpo_mod_preload_get_site_urls() is_preload_cache_clicked is true. URL: http://127.0.0.1:8001/index.php/sample-page/ Total urls: 1
+[2023-10-30 17:15:35] wpo_mod_update_cache_preload_status() Clicked: false
+[2023-10-30 17:15:35] wpo_mod_update_cache_preload_status() Clicked: false
+[2023-10-30 17:15:36] wpo_mod_update_cache_preload_status() Clicked: false
+[2023-10-30 17:15:36] wpo_mod_update_cache_preload_status() Clicked: false
+[2023-10-30 17:15:37] wpo_mod_update_cache_preload_status() Clicked: false
+[2023-10-30 17:15:37] wpo_mod_update_cache_preload_status() Clicked: false
+[2023-10-30 17:15:37] wpo_mod_update_cache_preload_status() Clicked: false
+[2023-10-30 17:15:38] wpo_mod_update_cache_preload_status() Clicked: false
+[2023-10-30 17:15:38] wpo_mod_update_cache_preload_status() Clicked: false
+[2023-10-30 17:15:39] wpo_mod_update_cache_preload_status() Clicked: false
+[2023-10-30 17:15:39] wpo_mod_update_cache_preload_status() Clicked: false
+[2023-10-30 17:15:39] wpo_mod_update_cache_preload_status() Clicked: false
+[2023-10-30 17:15:40] wpo_mod_update_cache_preload_status() Clicked: false
+[2023-10-30 17:15:40] wpo_mod_update_cache_preload_status() Clicked: false
+[2023-10-30 17:27:40] wpo_mod_run_preload_cache() called: true
+[2023-10-30 17:31:04] wpo_mod_run_preload_cache() called: true
+[2023-10-30 17:31:49] wpo_mod_run_preload_cache() called: true
+[2023-10-30 17:33:35] wpo_mod_run_preload_cache() called: true
+[2023-10-30 17:33:43] wpo_mod_run_preload_cache() called: true
